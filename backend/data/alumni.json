@@ -1,0 +1,38 @@
+[
+  {
+    "id": "alumni-1",
+    "name": "Ahmed Hassan",
+    "email": "ahmed.hassan@email.com",
+    "phone": "555-0201",
+    "graduationYear": "2020",
+    "graduationGrade": "12",
+    "currentCompany": "Tech Solutions Inc.",
+    "designation": "Software Engineer",
+    "address": "789 Success Ave, City",
+    "registrationDate": "2020-06-15"
+  },
+  {
+    "id": "alumni-2",
+    "name": "Sarah Williams",
+    "email": "sarah.williams@email.com",
+    "phone": "555-0202",
+    "graduationYear": "2021",
+    "graduationGrade": "12",
+    "currentCompany": "Global Innovations Ltd.",
+    "designation": "Data Analyst",
+    "address": "321 Career Path, Town",
+    "registrationDate": "2021-06-20"
+  },
+  {
+    "id": "alumni-1767157973248",
+    "name": "Sajjal",
+    "email": "ah123@yahoo.com",
+    "phone": "+924567897865",
+    "graduationYear": 2025,
+    "graduationGrade": "12",
+    "currentCompany": "FIDSOR",
+    "designation": "Developer",
+    "address": "Islamabad",
+    "registrationDate": "2025-12-31"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Sajjal",
+    "email": "s123@gmail.com",
+    "phone": "+925434678878",
+    "grade": "10",
+    "dob": "2015-11-30",
+    "address": "F-8 Islamabad"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "555-0102",
+    "grade": "11",
+    "dob": "2007-03-22",
+    "address": "456 Oak Ave, Town"
+  },
+  {
+    "id": "1767117862063",
+    "name": "Sajjal Ahmed",
+    "email": "sajjalahmed580@gmail.com",
+    "phone": "03417543233",
+    "grade": "10",
+    "dob": "2015-11-30",
+    "address": "F-8/3 Islamabad"
+  }
+]

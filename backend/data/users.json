@@ -1,0 +1,37 @@
+[
+  {
+    "id": "admin-1",
+    "username": "admin",
+    "password": "admin@123",
+    "email": "admin@studentshub.com",
+    "role": "admin",
+    "name": "Administrator"
+  },
+  {
+    "id": "student-1",
+    "username": "john.doe",
+    "password": "student@123",
+    "email": "john@example.com",
+    "role": "student",
+    "name": "John Doe",
+    "studentId": "1"
+  },
+  {
+    "id": "student-2",
+    "username": "jane.smith",
+    "password": "student@123",
+    "email": "jane@example.com",
+    "role": "student",
+    "name": "Jane Smith",
+    "studentId": "2"
+  },
+  {
+    "id": "student-3",
+    "username": "sajjal.ahmed",
+    "password": "student@123",
+    "email": "sajjalahmed580@gmail.com",
+    "role": "student",
+    "name": "Sajjal Ahmed",
+    "studentId": "1767117862063"
+  }
+]
